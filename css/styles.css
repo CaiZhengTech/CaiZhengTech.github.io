@@ -1280,7 +1280,7 @@ img#umass-logo {
 /* ======= RESUME ======= */
 
 #resume {
-    background: url(../img/laptop-blur.jpg);
+    background: url(../img/nyc-blurry-rainy.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1412,6 +1412,7 @@ a.resume-btn:active {
     -moz-transition: 0.3s ease-in-out;
     -webkit-transition: 0.3s ease-in-out;
 }
+
 
 #portfolio .portfolio-overlay {
     position: absolute;

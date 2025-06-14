@@ -1801,12 +1801,12 @@ ul.social-buttons li a:active {
     /*border: 1px solid #fff !important;*/
 }
 
-#facebook:hover {
+/* #facebook:hover {
     background-color: #3B5998;
-}
+} */
 
 #twitter:hover {
-    background-color: #55ACEE;
+    background-color: rgb(231, 233, 234);
 }
 
 #instagram:hover {
